@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-a99f25604399cc532f72cfc7e4b6d2dbfb27c560.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-bd97c2c5c8fb190ff8244bcb7569a620f056a23b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\httpclient-4.3.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\httpclient-4.3.4-7930877f20f9aabb2c7be3b6c3a455dea454d718.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-07bf3372613cde5ea317f4bf3c73ae010377346d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\httpcore-4.3.2-8342c7539ce96454cc2e4d19d0a4f1ae75550c9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-285465223e374f81ddc4c11b61b1f05c3166e2c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\jars\libs\bolts.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\bolts-a439b3136667d62c39044f43362dc79e9a6dd137.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d3fa9a272ce97601498defa8129edb89e3de2131">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-stream-4.0.2-4ca131e22f28e2fe1e0351877669fa3e6a1c6525.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\twitter4j-media-support-4.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96b1b89e9d7e95d040df13d638d1f237b9cf95f8">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-media-support-4.0.2-67c2bba88f1d30a4c2e669ce10ab37e3e558500a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4218d8d0b63619075859e823ea6af7f080311800">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-23d3ff2064f87f21ed5cc8c651f3f3292149f90d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-b39029b220b237f2dd2d8636b29463110aa94312.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-fa9a9055799281d7ee257128c9a64a3a1533abfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-5150aeb7af7584c00d7c4fa21b8843edb6e4ea5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-2b8106e4b8879f5a80c37961c128184e23e59a8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-1931ecbbd9d6d9186c587affe5a74fc3ef107af2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-96d2b5bdb6bd734e30e534f334fcd780fa5af443.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-4f2437a6aa8b7be6f8a4fc46546b918e78844bcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-9d84ad2f79a705878212ce03a0eb83cbed6c5824.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-7832d91e38470a50c981c6f83c5184e5bb457ea5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-216d73925825c64120cb8c41f580a248bdbc3b74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-8092846767a673e3da50fc5d5d0379223cf8fa14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-f79cd02d2754f8acc0296556d87745d70e362dc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-fdfd79bb077f43bdfac04da29d424b87a80b2b5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\apache-mime4j-0.6-e2de89104c2d6c1af262ed80167a0c988834797d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0faef4253b4ba28f47d7bd56a1d438f79ab04e92">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources-9982fd872c6f5a5d11aa0d6582c82c10edc89585.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-339ee44e4adcc76a8fbbe71c97ed02c3578062de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2158f98c7c9f8382082fe840daadb982a423396d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\httpmime-4.3.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\httpmime-4.3.4-beea627481e67718ba0a052e3440f5c7969ff7ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-f5ad5ed76cd6710a274e16aee45fdc794b3c6dd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\twitter4j-async-4.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="23d4842074b95d6115b5f49dc3f9cd8fbb009a76">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-async-4.0.2-7135c9713bdebbf40ccc01081e686ef7392c8720.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-0beec15d366310b003c6afba7977cbf79cffbf3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.2-5ad08224b22b97cfbd47147a8383c7208f3d8353.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-33d116c28c42d59c860385a347bae29c6378f976.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\libs\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-fbbe63db2b6dadef5065c9e84eed3691aaff5e3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-ebb38d3beb28ddc8021c59d4d663a0154b2f79cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-ce28a3c7b25f2c94797466971a54bd41adfbf16c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Luigi\AndroidstudioProjects\GuardianHouse\guardianHouse\build\intermediates\pre-dexed\debug\classes-5a192a90e0613b0af2b1adf92fbe3bace9286f03.jar" />
+    </item>
+
+</items>
