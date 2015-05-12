@@ -17,4 +17,4 @@
 	</item>
 	<item android:id ="@android:id/progress"
 	    android:drawable="@drawable/seekbar_progess_bg"></item>
-</layer-list><!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/drawable/seekbar_progress.xml -->
+</layer-list><!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/drawable/seekbar_progress.xml -->

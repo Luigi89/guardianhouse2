@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="AliceBlue">#F0F8FF</color>
     <color name="AntiqueWhite">#FAEBD7</color>
@@ -149,7 +149,7 @@
     <color name="bg_gray_color">#f0f0f0</color>
     <color name="bg_white_color">#ffffff</color>
     <color name="bianco" type="color">#ffffff</color>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/GuardianHouse/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="com_facebook_blue">#3B5998</color>
     <color name="com_facebook_loginview_text_color">#FFFFFF</color>
@@ -158,7 +158,7 @@
     <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
     <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
     <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values/common_colors.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values/common_colors.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
@@ -170,7 +170,7 @@
     <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
     <color name="common_signin_btn_light_text_focused">#FF737373</color>
     <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="grigio_scuro" type="color">#4c4c4c</color>
     <color name="list_text_color">#7c7c7c</color>
@@ -186,7 +186,7 @@
     <color name="theme_orange_color_alpha_66">#D6ff662e</color>
     <color name="unselected_text_color">#929292</color>
     <color name="view_bg_color">#fff7f7f7</color>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_colors.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_colors.xml -->
     <eat-comment/>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
@@ -201,7 +201,7 @@
     <color name="wallet_hint_foreground_holo_light">#808080</color>
     <color name="wallet_holo_blue_light">#ff33b5e5</color>
     <color name="wallet_link_text_light">#0000ee</color>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="word_bar">#FF0000</color>
     <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
@@ -216,11 +216,11 @@
     <declare-styleable name="com_facebook_picker_fragment"><attr format="boolean" name="show_pictures"/><attr format="string" name="extra_fields"/><attr format="boolean" name="show_title_bar"/><attr format="string" name="title_text"/><attr format="string" name="done_button_text"/><attr format="reference" name="title_bar_background"/><attr format="reference" name="done_button_background"/></declare-styleable>
     <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
     <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/GuardianHouse/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="com_facebook_loginview_compound_drawable_padding">12dp</dimen>
     <dimen name="com_facebook_loginview_padding_bottom">12dp</dimen>
@@ -235,7 +235,7 @@
     <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
     <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
     <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="corner_radius_review">50dp</dimen>
     <dimen name="dimen_10dp">10dp</dimen>
@@ -260,29 +260,29 @@
     <dimen name="text_size__no_result">16sp</dimen>
     <dimen name="text_size_slider_subtitle">14sp</dimen>
     <dimen name="text_size_slider_title">16sp</dimen>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/GuardianHouse/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values/version.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values/version.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">7327000</integer>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <integer name="num_cols">1</integer>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/integers.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/integers.xml -->
     <eat-comment/>
     <integer name="num_new_lines_2">2</integer>
     <integer name="num_new_lines_5">5</integer>
     <integer name="num_news_line_3">3</integer>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="IO_Exception_getFromLocation">IO Exception in Geocoder.getFromLocation()</string>
     <string name="about_us">About Us</string>
     <string name="about_us_detail">We are small team that aims for awesome Game and Apps Development. There are no application we cannot do as long as there is music that keeps us going and creating wonderful apps.\n\nIf you are looking for awesome Teams that will make your Apps interactive and awesome. Just contact us.</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_error">Action Error</string>
     <string name="action_settings">Settings</string>
@@ -312,7 +312,7 @@
     <string name="choose_browser">Choose a browser :</string>
     <string name="choose_email_client">Choose an Email client :</string>
     <string name="click_to_add_edit">Click to Add/Edit</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/GuardianHouse/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="com_facebook_choose_friends">Choose Friends</string>
     <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
@@ -340,10 +340,10 @@
     <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
     <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
     <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="comments">Comment(s)</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values/common_strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
@@ -377,15 +377,15 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="commono_google_play_services_api_unavailable_text">This app requires one or more Google Play services that are not currently
 available. Please contact the developer for assistance.</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="contact_us">Contact Us</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="editing_fields">**When editing all fields are necessary.</string>
     <string name="email">Email</string>
@@ -461,11 +461,11 @@ available. Please contact the developer for assistance.</string>
     <string name="social_login">Use Social Login</string>
     <string name="some_fields_are_missing">Some fields are missing.</string>
     <string name="starred">Starred</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="terms_and_conditions">Terms and Conditions</string>
     <string name="terms_and_conditions_details">1.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n2.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n3.) Lorem Ipsum dolor\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
@@ -476,14 +476,14 @@ available. Please contact the developer for assistance.</string>
     <string name="user">User</string>
     <string name="user_name">Username</string>
     <string name="view">View</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="weather">Weather</string>
     <string name="weather_placeholder">-------</string>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -501,7 +501,7 @@ available. Please contact the developer for assistance.</string>
     <style name="CustomActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
         <item name="android:background">@drawable/nav_bar_pattern</item>
     </style>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_iap_style.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_iap_style.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
     <item name="android:windowIsTranslucent">true</item>
@@ -511,7 +511,7 @@ available. Please contact the developer for assistance.</string>
     <item name="android:windowIsFloating">true</item>
     <item name="android:backgroundDimEnabled">false</item>
   </style>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_styles.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_styles.xml -->
     <eat-comment/>
     <style name="WalletFragmentDefaultButtonTextAppearance">
         <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
@@ -545,7 +545,7 @@ available. Please contact the developer for assistance.</string>
         <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
         <item name="maskedWalletDetailsLogoImageType">classic</item>
     </style>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/GuardianHouse/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
         <item name="android:layout_width">wrap_content</item>
@@ -566,7 +566,7 @@ available. Please contact the developer for assistance.</string>
         <item name="android:textColor">#4B5164</item>
         <item name="android:gravity">center</item>
     </style>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ratingBarList" parent="@android:style/Widget.RatingBar">
         <item name="android:progressDrawable">@drawable/star_rating_bar_full</item>
@@ -578,7 +578,7 @@ available. Please contact the developer for assistance.</string>
         <item name="android:minHeight">72dip</item>
         <item name="android:maxHeight">72dip</item>
     </style>
-    <!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/build/intermediates/exploded-aar/GuardianHouse/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="tooltip_bubble_text">
 	    <item name="android:textColor">@android:color/white</item>

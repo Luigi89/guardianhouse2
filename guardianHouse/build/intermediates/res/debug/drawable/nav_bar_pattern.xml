@@ -3,4 +3,4 @@
     xmlns:android="http://schemas.android.com/apk/res/android" 
     android:tileMode="repeat" 
     android:src="@drawable/nav_bar" />
-<!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/drawable/nav_bar_pattern.xml -->
+<!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/drawable/nav_bar_pattern.xml -->

@@ -3,4 +3,4 @@
     xmlns:android="http://schemas.android.com/apk/res/android" 
     android:tileMode="repeat" 
     android:src="@drawable/side_bar_list_bg_selected" />
-<!-- From: file:/C:/Users/Luigi/AndroidstudioProjects/GuardianHouse/guardianHouse/src/main/res/drawable/side_bar_list_bg_selected_pattern.xml -->
+<!-- From: file:/C:/Users/Luigi/Documents/GitHub/GuardianHouse2/guardianHouse/src/main/res/drawable/side_bar_list_bg_selected_pattern.xml -->

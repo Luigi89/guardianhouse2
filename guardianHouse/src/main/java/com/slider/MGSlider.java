@@ -95,7 +95,7 @@ public class MGSlider extends ViewPager implements OnItemClickListener {
 		
 		if(isTimerRunning) {
 			Log.e("Timer is currently running", 
-					"Timer is currently running. please stop the slider animation first by " +
+					"Timer is currently running.please stop the slider animation first by " +
 					"calling Slider.stopSliderAnimation()");
 			
 			return;
