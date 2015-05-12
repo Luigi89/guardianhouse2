@@ -2,7 +2,7 @@
 <resources>
 
     	
-    <string name="app_id">894251437257928</string>
+    <string name="app_id">1096079203742887</string>
    
     
     <string name="IO_Exception_getFromLocation">IO Exception in Geocoder.getFromLocation()</string>
@@ -200,5 +200,5 @@
     <string name="failed_data">Failed to get data.</string>
     
     <string name="editing_fields">**When editing all fields are necessary.</string>
-    
+
 </resources>

@@ -10,26 +10,26 @@ public class Config {
 	public static final String TWITTER_CONSUMER_SECRET = "CGIZRrb7mabu16g89U1Uz1oDKor7qxWkqpQy4KLfmWzA9VsQBd";
 	
 	// Set to true if you want to display test ads in emulator
-	public static final boolean TEST_ADS_USING_EMULATOR = true;
+	public static final boolean TEST_ADS_USING_EMULATOR = false;
 	
 	// Set to true if you want to display test ads on your testing device
-	public static final boolean TEST_ADS_USING_TESTING_DEVICE = true;
+	public static final boolean TEST_ADS_USING_TESTING_DEVICE = false;
 	
 	// Add testing device hash
 	// It is displated upon running the app, please check logcat.
 	public static final String TESTING_DEVICE_HASH = "3BE2FA86964E0348BBE40ECFE3FAD546";
 	
 	// Set to true if you want to display ads in all views.
-	public static final boolean WILL_SHOW_ADS = true;
+	public static final boolean WILL_SHOW_ADS = false;
 	
 	// You AdMob Banner Unit ID
-	public static final String BANNER_UNIT_ID = "ca-app-pub-2513284293470814/4631467285";
+	public static final String BANNER_UNIT_ID = "";
 	
 	// Change this url depending on the name of your web hosting.
-	public static String BASE_URL = "http://mangasaurgames.com/apps/storefinder-v1.6.5/";
+	public static String BASE_URL = "http://carlo.teammolise.rocks/prova/";
 	
 	// Your email that you wish that users on your app will contact you.
-	public static String ABOUT_US_EMAIL = "mangasaurgames@gmail.com";
+	public static String ABOUT_US_EMAIL = "guardianhouse1@gmail.com";
 	
 	// Adjust this if you want to display reviews at a
 	// certain count and shows the View More Comments

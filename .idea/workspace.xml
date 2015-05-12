@@ -1,7 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab09990b-3b01-4462-b795-3bc763336951" name="Default" comment="" />
+    <list default="true" id="ab09990b-3b01-4462-b795-3bc763336951" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\facebookSDK\build\intermediates\manifests\tmp\manifestMerger3244552334992954835.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\facebookSDK\build\intermediates\manifests\tmp\manifestMerger8196330316872960032.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\jars\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\jars\libs\bolts.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_button_blue_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_button_blue_normal.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_button_blue_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_button_grey_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_button_grey_normal.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_button_grey_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_inverse_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_picker_magnifier.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_black_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_black_bottomnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_black_topnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_black_xout.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_blue_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_blue_bottomnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_blue_topnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-hdpi\com_facebook_tooltip_blue_xout.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-ldpi\com_facebook_close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_button_blue_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_button_blue_normal.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_button_blue_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_inverse_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_picker_magnifier.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_black_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_black_bottomnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_black_topnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_black_xout.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_blue_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_blue_bottomnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_blue_topnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-mdpi\com_facebook_tooltip_blue_xout.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_button_blue_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_button_blue_normal.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_button_blue_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_button_grey_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_button_grey_normal.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_button_grey_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_inverse_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_picker_magnifier.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_black_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_black_bottomnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_black_topnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_black_xout.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_blue_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_blue_bottomnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_blue_topnub.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable-xhdpi\com_facebook_tooltip_blue_xout.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_blue.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_blue_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_blue_normal.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_blue_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_check.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_check_off.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_check_on.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_grey_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_grey_normal.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_button_grey_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_inverse_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_list_divider.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_list_section_header_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_loginbutton_silver.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_item_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_list_focused.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_list_longpressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_list_pressed.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_list_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_list_selector_background_transition.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_list_selector_disabled.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_picker_top_button.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_place_default_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_profile_default_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_profile_picture_blank_portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_profile_picture_blank_square.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_top_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_top_button.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\drawable\com_facebook_usersettingsfragment_background_gradient.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_friendpickerfragment.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_login_activity_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_activity_circle_row.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_checkbox.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_image.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_list_row.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_list_section_header.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_search_box.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_title_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_picker_title_bar_stub.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_placepickerfragment.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_placepickerfragment_list_row.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_search_bar_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_tooltip_bubble.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\layout\com_facebook_usersettingsfragment.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values-es\values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values-hdpi\values-hdpi.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values-he\values-he.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values-iw\values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values-ldpi\values-ldpi.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values-mdpi\values-mdpi.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values-xhdpi\values-xhdpi.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\exploded-aar\GuardianHouse\facebookSDK\unspecified\res\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\apache-mime4j-0.6-e2de89104c2d6c1af262ed80167a0c988834797d.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\bolts-a439b3136667d62c39044f43362dc79e9a6dd137.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-07bf3372613cde5ea317f4bf3c73ae010377346d.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-0beec15d366310b003c6afba7977cbf79cffbf3d.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-1931ecbbd9d6d9186c587affe5a74fc3ef107af2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-216d73925825c64120cb8c41f580a248bdbc3b74.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-23d3ff2064f87f21ed5cc8c651f3f3292149f90d.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-285465223e374f81ddc4c11b61b1f05c3166e2c4.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-2b8106e4b8879f5a80c37961c128184e23e59a8d.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-339ee44e4adcc76a8fbbe71c97ed02c3578062de.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-33d116c28c42d59c860385a347bae29c6378f976.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-4f2437a6aa8b7be6f8a4fc46546b918e78844bcd.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-5150aeb7af7584c00d7c4fa21b8843edb6e4ea5a.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-5a192a90e0613b0af2b1adf92fbe3bace9286f03.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-8092846767a673e3da50fc5d5d0379223cf8fa14.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-96d2b5bdb6bd734e30e534f334fcd780fa5af443.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-9d84ad2f79a705878212ce03a0eb83cbed6c5824.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-a99f25604399cc532f72cfc7e4b6d2dbfb27c560.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-b39029b220b237f2dd2d8636b29463110aa94312.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-ce28a3c7b25f2c94797466971a54bd41adfbf16c.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-ebb38d3beb28ddc8021c59d4d663a0154b2f79cf.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-f5ad5ed76cd6710a274e16aee45fdc794b3c6dd2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-f79cd02d2754f8acc0296556d87745d70e362dc7.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\classes-fdfd79bb077f43bdfac04da29d424b87a80b2b5f.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\httpclient-4.3.4-7930877f20f9aabb2c7be3b6c3a455dea454d718.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\httpcore-4.3.2-8342c7539ce96454cc2e4d19d0a4f1ae75550c9e.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\httpmime-4.3.4-beea627481e67718ba0a052e3440f5c7969ff7ca.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2158f98c7c9f8382082fe840daadb982a423396d.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-bd97c2c5c8fb190ff8244bcb7569a620f056a23b.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-fbbe63db2b6dadef5065c9e84eed3691aaff5e3f.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-7832d91e38470a50c981c6f83c5184e5bb457ea5.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-async-4.0.2-7135c9713bdebbf40ccc01081e686ef7392c8720.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.2-5ad08224b22b97cfbd47147a8383c7208f3d8353.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-media-support-4.0.2-67c2bba88f1d30a4c2e669ce10ab37e3e558500a.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\twitter4j-stream-4.0.2-4ca131e22f28e2fe1e0351877669fa3e6a1c6525.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Luigi\Documents\GitHub\GuardianHouse2\guardianHouse\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources-9982fd872c6f5a5d11aa0d6582c82c10edc89585.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/config/Config.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/config/Config.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/receiver/GuardianHouseBroadcastReceiver.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/receiver/GuardianHouseBroadcastReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/slider/MGSlider.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/slider/MGSlider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$1.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$2.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$3.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$4.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$5.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$6.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$GetAddressTask.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$GetAddressTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$SessionStatusCallback.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$SessionStatusCallback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$SlideMenuClickListener.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity$SlideMenuClickListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity.class" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/classes/debug/com/projects/guardianhouse/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/Thumbs.db" afterPath="$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/res/debug/drawable-xhdpi/bg_slider_fill.png" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/res/debug/drawable-xhdpi/bg_slider_fill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/bg_slider_fill.png" afterPath="$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/bg_slider_fill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/res/debug/drawable-xhdpi/bg_splash.png" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/res/debug/drawable-xhdpi/bg_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/bg_splash.png" afterPath="$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/bg_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/exploded-aar/GuardianHouse2/facebookSDK/unspecified/jars/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-debug.aar" afterPath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-release.aar" afterPath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/outputs/apk/guardianHouse-debug-unaligned.apk" afterPath="$PROJECT_DIR$/guardianHouse/build/outputs/apk/guardianHouse-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/outputs/apk/guardianHouse-debug.apk" afterPath="$PROJECT_DIR$/guardianHouse/build/outputs/apk/guardianHouse-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/guardianHouse/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/java/com/config/Config.java" afterPath="$PROJECT_DIR$/guardianHouse/src/main/java/com/config/Config.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/java/com/receiver/GuardianHouseBroadcastReceiver.java" afterPath="$PROJECT_DIR$/guardianHouse/src/main/java/com/receiver/GuardianHouseBroadcastReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/java/com/projects/guardianhouse/MainActivity.java" afterPath="$PROJECT_DIR$/guardianHouse/src/main/java/com/projects/guardianhouse/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/guardianHouse/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guardianHouse/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/guardianHouse/build/intermediates/res/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="GuardianHouse2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,21 +231,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DbHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/db/DbHelper.java">
+      <file leaf-file-name="MGSlider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/slider/MGSlider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queries.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/db/Queries.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <caret line="193" column="63" selection-start-line="193" selection-start-column="63" selection-end-line="193" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -58,31 +251,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewsFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/NewsFragment.java">
+      <file leaf-file-name="Data.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/models/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.11703958">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MGJSONHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/json/MGJSONHelper.java">
+      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/HomeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserAccessSession.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/usersession/UserAccessSession.java">
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/config/Config.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocationUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/location/LocationUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UIConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/config/UIConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+              <folding>
+                <element signature="e#370#383#0" expanded="true" />
+                <element signature="e#505#524#0" expanded="true" />
+                <element signature="e#655#671#0" expanded="true" />
+                <element signature="e#797#814#0" expanded="true" />
+                <element signature="e#937#949#0" expanded="true" />
+                <element signature="e#1065#1080#0" expanded="true" />
+                <element signature="e#1200#1213#0" expanded="true" />
+                <element signature="e#1332#1348#0" expanded="true" />
+                <element signature="e#1620#1644#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeaturedFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/FeaturedFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="140" column="77" selection-start-line="140" selection-start-column="77" selection-end-line="140" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FavoriteFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/FavoriteFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="121" column="77" selection-start-line="121" selection-start-column="77" selection-end-line="121" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -1646,7 +1899,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/guardianHouse/src/main/java/com/slider/MGSlider.java" />
+        <option value="$PROJECT_DIR$/guardianHouse/src/main/java/com/receiver/GuardianHouseBroadcastReceiver.java" />
+        <option value="$PROJECT_DIR$/guardianHouse/src/main/java/com/projects/guardianhouse/MainActivity.java" />
+        <option value="$PROJECT_DIR$/guardianHouse/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/guardianHouse/src/main/java/com/config/Config.java" />
+        <option value="$PROJECT_DIR$/guardianHouse/src/main/java/com/config/UIConfig.java" />
+        <option value="$PROJECT_DIR$/guardianHouse/src/main/AndroidManifest.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="NamedScopeManager">
@@ -1681,8 +1947,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1728,10 +2002,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="touchgallery" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1747,11 +2017,11 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="touchgallery" />
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GalleryWidget" />
+              <option name="myItemId" value="utilities" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1791,7 +2061,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
+              <option name="myItemId" value="sliding" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1813,14 +2083,287 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
+              <option name="myItemId" value="slider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refreshlayout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receiver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianhouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="guardianHouse">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="guardianHouse">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuardianHouse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guardianHouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="location" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1839,6 +2382,8 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/.ganttproject" />
     <property name="FullScreen" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="06f08fc1f0e949f8" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_One_API_21" />
   </component>
   <component name="RunManager" selected="Android Application.guardianHouse">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1847,6 +2392,31 @@
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1880,6 +2450,22 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1899,6 +2485,11 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1994,36 +2585,46 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1092" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896176" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896176" sideWeight="0.5064378" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896176" sideWeight="0.49570817" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896176" sideWeight="0.49356222" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896176" sideWeight="0.49785408" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2046,7 +2647,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2054,7 +2657,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2062,7 +2667,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1640#1641#0" expanded="false" />
+            <element signature="e#1673#1674#0" expanded="false" />
+            <element signature="e#1728#1729#0" expanded="false" />
+            <element signature="e#1759#1760#0" expanded="false" />
+            <element signature="e#1813#1814#0" expanded="false" />
+            <element signature="e#1843#1844#0" expanded="false" />
+            <element signature="e#2432#2433#0" expanded="false" />
+            <element signature="e#2458#2459#0" expanded="false" />
+            <element signature="e#3819#3820#0" expanded="false" />
+            <element signature="e#3852#3853#0" expanded="false" />
+            <element signature="e#4622#4623#0" expanded="false" />
+            <element signature="e#4651#4652#0" expanded="false" />
+            <element signature="e#5200#5201#0" expanded="false" />
+            <element signature="e#5238#5239#0" expanded="false" />
+            <element signature="e#5271#5272#0" expanded="false" />
+            <element signature="e#5315#5316#0" expanded="false" />
+            <element signature="e#5921#5922#0" expanded="false" />
+            <element signature="e#5950#5951#0" expanded="false" />
+            <element signature="e#5984#5985#0" expanded="false" />
+            <element signature="e#6011#6012#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2094,7 +2721,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2102,37 +2731,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/drawingview/DrawingView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/NewsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/slider/MGSlider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="97" column="72" selection-start-line="97" selection-start-column="72" selection-end-line="97" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/sliding/MGSliding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.28743544">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2146,8 +2747,278 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/usersession/UserAccessSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.11703958">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/refreshlayout/SwipeRefreshActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2376599">
+          <caret line="26" column="110" selection-start-line="26" selection-start-column="109" selection-end-line="26" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/receiver/GuardianHouseBroadcastReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/dataparser/DataParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="457" column="34" selection-start-line="457" selection-start-column="30" selection-end-line="457" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/models/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/activity/ReviewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/NewsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/models/DataNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/adapters/MGListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/build/generated/source/buildConfig/androidTest/debug/com/projects/guardianhouse/test/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.091726616">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2535971">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-hdpi/textbox_bg_review.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-hdpi/textbox_fullname.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-hdpi/textbox_password.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-hdpi/textbox_search_normal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-hdpi/textbox_search_selected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-mdpi/bg_splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/layout/fragment_login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/bg_splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/button_call.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/button_email.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/button_facebook_large.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/button_login_large.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/res/drawable-xhdpi/button_route.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/sliding/MGSliding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0929432">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/projects/guardianhouse/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/slider/MGSliderAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/slider/MGSlider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="193" column="63" selection-start-line="193" selection-start-column="63" selection-end-line="193" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/FeaturedFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="140" column="77" selection-start-line="140" selection-start-column="77" selection-end-line="140" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/fragments/FavoriteFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="121" column="77" selection-start-line="121" selection-start-column="77" selection-end-line="121" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/config/UIConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <element signature="e#370#383#0" expanded="true" />
+            <element signature="e#505#524#0" expanded="true" />
+            <element signature="e#655#671#0" expanded="true" />
+            <element signature="e#797#814#0" expanded="true" />
+            <element signature="e#937#949#0" expanded="true" />
+            <element signature="e#1065#1080#0" expanded="true" />
+            <element signature="e#1200#1213#0" expanded="true" />
+            <element signature="e#1332#1348#0" expanded="true" />
+            <element signature="e#1620#1644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/location/LocationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/drawingview/DrawingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guardianHouse/src/main/java/com/models/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11703958">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>

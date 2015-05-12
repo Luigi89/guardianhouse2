@@ -1,12 +1,45 @@
 package com.projects.guardianhouse;
 
-import java.io.IOException;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Locale;
-import twitter4j.auth.AccessToken;
+import android.annotation.SuppressLint;
+import android.app.Activity;
+import android.app.Dialog;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentSender;
+import android.content.SharedPreferences;
+import android.content.pm.ActivityInfo;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.PackageManager.NameNotFoundException;
+import android.content.pm.Signature;
+import android.content.res.Configuration;
+import android.database.sqlite.SQLiteDatabase;
+import android.location.Address;
+import android.location.Geocoder;
+import android.location.Location;
+import android.os.AsyncTask;
+import android.os.Build;
+import android.os.Bundle;
+import android.os.Handler;
+import android.support.v4.app.ActionBarDrawerToggle;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.widget.DrawerLayout;
+import android.text.Html;
+import android.text.Spanned;
+import android.util.Base64;
+import android.util.Log;
+import android.util.TypedValue;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
+
 import com.adapters.MGListAdapter;
 import com.adapters.MGListAdapter.OnMGListAdapterAdapterListener;
 import com.config.Config;
@@ -39,13 +72,11 @@ import com.google.android.gms.ads.AdRequest.Builder;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationListener;
 import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationServices;
-import com.google.android.gms.common.GooglePlayServicesUtil;
-
-import com.projects.guardianhouse.R;
 import com.location.LocationHelper;
 import com.location.LocationHelper.OnLocationListener;
 import com.location.LocationUtils;
@@ -58,45 +89,15 @@ import com.social.twitter.TwitterApp;
 import com.social.twitter.TwitterApp.TwitterAppListener;
 import com.usersession.UserAccessSession;
 import com.usersession.UserSession;
-import android.location.Address;
-import android.location.Geocoder;
-import android.location.Location;
-import android.os.AsyncTask;
-import android.os.Build;
-import android.os.Bundle;
-import android.os.Handler;
-import android.annotation.SuppressLint;
-import android.app.Activity;
-import android.app.Dialog;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentSender;
-import android.content.SharedPreferences;
-import android.content.pm.ActivityInfo;
-import android.content.pm.PackageInfo;
-import android.content.pm.PackageManager;
-import android.content.pm.Signature;
-import android.content.pm.PackageManager.NameNotFoundException;
-import android.content.res.Configuration;
-import android.database.sqlite.SQLiteDatabase;
-import android.support.v4.app.ActionBarDrawerToggle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.widget.DrawerLayout;
-import android.text.Html;
-import android.text.Spanned;
-import android.util.Base64;
-import android.util.Log;
-import android.util.TypedValue;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.FrameLayout;
-import android.widget.ImageView;
-import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
+
+import java.io.IOException;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Locale;
+
+import twitter4j.auth.AccessToken;
 
 public class MainActivity extends SwipeRefreshActivity implements LocationListener, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener  {
 
@@ -130,8 +131,8 @@ public class MainActivity extends SwipeRefreshActivity implements LocationListen
     private Fragment currFragment;
   
     private GetAddressTask getAddressTask;
-    
-    
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -299,7 +300,7 @@ public class MainActivity extends SwipeRefreshActivity implements LocationListen
 	            fragment = new SearchFragment();
 	            break;
 	        case 7:
-	            fragment = new NewsFragment();
+				fragment = new NewsFragment();
 	            break;
 	        case 8:
 	            fragment = new WeatherFragment();
@@ -467,13 +468,13 @@ public class MainActivity extends SwipeRefreshActivity implements LocationListen
 	
 	public interface OnLocatonListener {
 		
-        public void onLocationChanged(Location prevLoc, Location currentLoc);
+        void onLocationChanged(Location prevLoc, Location currentLoc);
     }
 	
 	public void setOnLocatonListener(OnLocatonListener listener) {
 		
 		try {
-			mCallbackLocation = (OnLocatonListener) listener;
+			mCallbackLocation = listener;
         } catch (ClassCastException e)  {
             throw new ClassCastException(this.toString() + " must implement OnLocatonListener");
         }
@@ -723,13 +724,13 @@ public class MainActivity extends SwipeRefreshActivity implements LocationListen
  	
  // LISTENERS
   	public interface OnSocialAuthenticationListener {
-         public void socialAuthenticationFacebookCompleted(
-        		 Activity activity, GraphUser user, Response response);
+         void socialAuthenticationFacebookCompleted(
+				 Activity activity, GraphUser user, Response response);
      }
  	
  	public void setOnSocialAuthenticationListener(OnSocialAuthenticationListener listener) {
  		try {
-             mCallback = (OnSocialAuthenticationListener) listener;
+             mCallback = listener;
          } catch (ClassCastException e)  {
              throw new ClassCastException(this.toString() + " must implement OnSocialAuthenticationListener");
          }
@@ -737,13 +738,13 @@ public class MainActivity extends SwipeRefreshActivity implements LocationListen
  	
  	
  	public interface OnActivityResultListener {
-         public void onActivityResultCallback(
-         		Activity activity, int requestCode, int resultCode, Intent data);
+         void onActivityResultCallback(
+				 Activity activity, int requestCode, int resultCode, Intent data);
      }
  	
  	public void setOnActivityResultListener(OnActivityResultListener listener) {
  		try {
- 			mCallbackActivityResult = (OnActivityResultListener) listener;
+ 			mCallbackActivityResult = listener;
          } catch (ClassCastException e)  {
              throw new ClassCastException(this.toString() + " must implement OnActivityResultListener");
          }
@@ -838,7 +839,7 @@ public class MainActivity extends SwipeRefreshActivity implements LocationListen
     /**
      * Report location updates to the UI.
      *
-     * @param location The updated location.
+     * @param  loc The updated location.
      */
     @Override
     public void onLocationChanged(Location loc) {
